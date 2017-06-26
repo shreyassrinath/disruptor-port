@@ -40,3 +40,5 @@ Writes to ring buffer using Reserve and Commit helpers so that it safely handles
 [LMAX Disruptor](https://github.com/LMAX-Exchange/disruptor)
 
 [Disruptor explained](https://martinfowler.com/articles/lmax.html)
+
+[Disruptor in Go](https://github.com/smartystreets/go-disruptor)
