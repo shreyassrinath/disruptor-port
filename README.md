@@ -9,6 +9,7 @@ This is a disruptor port in C# for proof of concept- NOT Production ready!
 
 ### How do I get set up? ###
 
+* Visual Studio 2015 
 * Clone this repo.
 
 ### References
