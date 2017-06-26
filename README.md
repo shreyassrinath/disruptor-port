@@ -4,8 +4,7 @@ This is a disruptor port in C# for proof of concept- NOT Production ready!
 
 ### What is this repository for? ###
 
-* Quick summary
-
+This is a proof of concept disruptor written in C# for testing out ring buffer concept. 
 
 ### How do I get set up? ###
 
